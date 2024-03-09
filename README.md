@@ -3,7 +3,7 @@
 #### Habilidades técnicas : Python, SQL, AWS, Streamlit, Gradio, GIT
 
 ## Educación			        		
-- Licenciado en Ingeniería Biomédica | Facultad de Ingeniería Mecánica y Eléctrica
+- Ingeniero Biomédico | Facultad de Ingeniería Mecánica y Eléctrica (UANL)
 
 ## Certificaciones
 - Neural Networks and Deep Learning | deeplearning.ai (Mayo 2023)
@@ -11,7 +11,7 @@
 - Foundations of Healthcare Systems engineering |  Johns Hopkins University (Marzo 2024)
 
 ## Experiencia
-**Prácticante en Investigación @ Centro de Desarrollo en Investigación 360 (_Diciembre 2022 - Noviembre 2023)**
+**Investigador @ Centro de Desarrollo en Investigación 360 (_Diciembre 2022 - Noviembre 2023)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
