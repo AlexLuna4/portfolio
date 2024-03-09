@@ -1,4 +1,4 @@
-# Cientifico de Datos | Analista de Datos | Ingeniero en Vision por computadora 
+# Cientifico de Datos | Analista de Datos
 
 #### Habilidades técnicas : Python, SQL, AWS, Streamlit, Gradio, GIT
 
