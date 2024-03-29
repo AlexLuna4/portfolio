@@ -7,7 +7,9 @@
 
 ### Professional Experience
 **Research development center** | **Research and Innovation Department of the Faculty of Medicine (UANL)**
+
 *AI Researcher @ Monterrey, MX (_December 2022 - November 2023_)*
+
 - Implement state-of-the-art models for medical applications (ResNet, EfficientNet, Unet).
 - Analyze Medical Data, explore different approaches to problem-solving tasks.
 - Working in cross-functional teams in the implementation of key projects, ensuring alignment with research goals and objectives.
