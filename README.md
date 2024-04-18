@@ -1,5 +1,3 @@
-Spanish Version: [Portfolio](https://alexluna4.github.io/portafolio-esp/)
-
 ### Biomedical Engineer | Data Scientist 
 
 #### Technical Skills: Python, SQL, Docker, Pytorch, Tensorflow, Keras, Pandas, Numpy
@@ -35,4 +33,6 @@ Medical Assistant Chatbot to help Doctors to follow up diabetes mellitus (*Chat-
  +52 8211217127 | alejandrolunam04@gmail.com
 
 [http://www.linkedin.com/in/josé-alejandro-luna-martínez-923495200](http://www.linkedin.com/in/josé-alejandro-luna-martínez-923495200)
+
+### to see this Portfolio in Spanish: [Portfolio](https://alexluna4.github.io/portafolio-esp/)
 
