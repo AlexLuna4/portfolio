@@ -1,3 +1,5 @@
+Spanish Version: [Portfolio](https://alexluna4.github.io/portafolio-esp/)
+
 ### Biomedical Engineer | Data Scientist 
 
 #### Technical Skills: Python, SQL, Docker, Pytorch, Tensorflow, Keras, Pandas, Numpy
