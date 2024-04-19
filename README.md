@@ -1,13 +1,14 @@
 ### Biomedical Engineer | Data Scientist 
 
-#### Technical Skills: Python, SQL, Docker, Pytorch, Tensorflow, Keras, Pandas, Numpy
+#### Technical Skills: Python, SQL, Docker, Pytorch, Tensorflow, Keras, Pandas, Numpy, Power BI
 
 ### Education
-- B.E, Biomedical Eng. | Universidad autonoma de Nuevo Leon (_2019-2024_)
+- B.E, Biomedical Engineering. | Universidad autonoma de Nuevo Leon (_2019-2024_)
 
 ### Professional Experience
 **AI Research Student @ Research Development Center of Dr. Jose Eleuterio Gonzalez University Hospital (UANL)**
-*Monterrey, MX (_December 2022 - November 2023_)*
+
+*Monterrey, MX (_December 2022-November 2023_)*
 
 - Medical Data Analysis: Made Exploratory Data analysis, explore different approaches to problem-solving tasks, manage images in DICOM format, along with Electronic Health Records (EHRs)
 - Neural Network Modelling: I implement state-of-the-art deep learning models like Long short-term Memory
