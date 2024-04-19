@@ -31,9 +31,12 @@ This serves to showcase every stage of the machine learning model development cy
 
 
 ### Virtual Clinical Assistant for the monitoring of diabetes mellitus:
+[Github](https://github.com/AlexLuna4/Virtual_Clinical_Assistant_GPT.git)
 
-Developed using Python and the GPT-3.5 model API from OpenAI, alongside a Mexican clinical practice guideline. Deployed using Streamlit and github spaces. 
-Aims to expedite diabetes diagnosis by providing physicians with prompt-based patient follow-up and treatment guidance based on clinically validated information.
+Using Python, a clinical assistant chatbot was developed using the GPT-3.5 model API from OpenAI and one of the Mexican clinical practice guidelines used for monitoring Diabetes Mellitus in healthcare services. 
+The model was deployed using Streamlit, a web application development framework. The project's intention is to provide a virtual assistant capable of utilizing clinically validated information, 
+streamlining the diagnosis process for diabetes. This avoids the need for the physician to review each case in the clinical guideline manually. With just a prompt, 
+they can determine how to manage patient diagnosis and treatment.
 
 ![Virtual clinical assitant](/assets/img/docgpt.png)
 
