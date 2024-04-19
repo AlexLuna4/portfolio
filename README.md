@@ -1,4 +1,4 @@
-### Biomedical Engineer | Data Scientist 
+# Data Scientist 
 
 #### Technical Skills: Python, SQL, Docker, Pytorch, Tensorflow, Keras, Pandas, Numpy, Power BI
 
