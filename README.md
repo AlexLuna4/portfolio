@@ -23,9 +23,9 @@ like accuracy, precision, F1-Score, Specificity, Sensitivity and Recall using **
 ### Handwritten Digit Classifier
 [Github](https://github.com/AlexLuna4/Handwritten_Digit_Recognizer_UI.git)
 
-Employing the 'MNIST' dataset, I developed a deep-layer neural network to classify digits from 0 to 9 using PyTorch for educational purposes. 
+Employing the 'MNIST' dataset, I developed a deep-layer neural network to classify digits from 0 to 9 using **PyTorch**.  
 The comprehensive documentation covers the entire algorithm development process, including dataset acquisition, model design, training, validation, and model deployment. 
-This serves to showcase every stage of the machine learning model development cycle, hosted as a web application in the cloud of Hugging Face Spaces.
+This serves to showcase every stage of the machine learning model development cycle, hosted as a web application using **Gradio** in the cloud of Hugging Face Spaces.
 
 ![Handwritten Digit Classifier](/assets/img/Digit_recognition.gif)
 
@@ -33,8 +33,8 @@ This serves to showcase every stage of the machine learning model development cy
 ### Virtual Clinical Assistant for the monitoring of diabetes mellitus:
 [Github](https://github.com/AlexLuna4/Virtual_Clinical_Assistant_GPT.git)
 
-Using Python, a clinical assistant chatbot was developed using the GPT-3.5 model API from OpenAI and one of the Mexican clinical practice guidelines used for monitoring Diabetes Mellitus in healthcare services. 
-The model was deployed using Streamlit, a web application development framework. The project's intention is to provide a virtual assistant capable of utilizing clinically validated information, 
+Developed in **Python** a clinical assistant chatbot using the GPT-3.5 model API from OpenAI alongside one of the Mexican clinical practice guidelines used for monitoring Diabetes Mellitus in healthcare services. 
+The model was deployed using **Streamlit**, a web application development framework. The project's intention is to provide a virtual assistant capable of utilizing clinically validated information, 
 streamlining the diagnosis process for diabetes. This avoids the need for the physician to review each case in the clinical guideline manually. With just a prompt, 
 they can determine how to manage patient diagnosis and treatment.
 
